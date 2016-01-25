@@ -2,6 +2,10 @@ body {
   margin-top: 80px;
 }
 
+.main-container {
+  max-width: 970px;
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
