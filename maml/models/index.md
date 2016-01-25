@@ -1,12 +1,3 @@
-<div class="jumbotron">
-  <h1>Tylingsoft</h1>
-  <p>
-    We build software with our hearts.
-    Tylingsoft is a software studio based in Shenzhen, China.
-    We focus on desktop GUI applications which can boost your productivity.
-  </p>
-</div>
-
 <div id="main-carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>

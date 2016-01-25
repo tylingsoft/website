@@ -18,4 +18,4 @@ In order for us to better service you, please do include the following informati
 1. Operating system and version
 1. Steps to reproduce the issues/bugs if there are any
 1. A screenshot is very helpful for us to quickly know what is happening
-1. Sample content is super helpful too
+1. Any other information which might help us to investigate the issue
