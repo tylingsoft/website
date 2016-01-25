@@ -1,8 +1,8 @@
 controller: index
 action: index
-view: index
+view: home
 
 brand: Tylingsoft
 title: Welcome
 title_suffix: " | Tylingsoft"
-navbar_items: [ "/markdown-plus/" ]
+navbar_items: [ "/markdown-plus/", "/markdown-mate/" ]

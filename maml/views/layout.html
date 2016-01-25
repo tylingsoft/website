@@ -3,17 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title }}{{ title_suffix }}</title>
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/flat-ui/2.2.2/css/flat-ui.min.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css">
   <link rel="stylesheet" href="/index.css">
-  <script src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <script src="/index.js"></script>
 </head>
 <body>
-  <nav class="navbar navbar-inverse">
+  <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items">
@@ -25,19 +24,20 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-items">
         <ul class="nav navbar-nav">
-          {% for navbar_item in navbar_items %}
-            {% if pathname.startsWith(navbar_item) %}
+          {% for navbar_item in navbar_items -%}
+            {% if pathname.startsWith(navbar_item) -%}
               <li class="active"><a href="{{ navbar_item }}">{{ g.config[navbar_item].name }}</a></li>
-            {% else %}
+            {%- else -%}
               <li><a href="{{ navbar_item }}">{{ g.config[navbar_item].name }}</a></li>
-            {% endif %}
-          {% endfor %}
+            {%- endif %}
+          {%- endfor %}
         </ul>
       </div>
     </div>
   </nav>
-  {% block main %}
-  {% endblock %}
+  <div class="container">
+  {% block main %}{% endblock %}
+  </div>
   <footer class="footer">
     <div class="container">
       <p class="text-muted">
@@ -45,5 +45,8 @@
       </p>
     </div>
   </footer>
+  <script src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="/index.js"></script>
 </body>
 </html>

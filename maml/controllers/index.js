@@ -1,4 +1,4 @@
-var mdi = require('markdown-it')();
+var mdi = require('markdown-it')({ html: true, xhtmlOut: true });
 
 
 function index(page) {
