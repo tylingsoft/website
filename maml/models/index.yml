@@ -1,0 +1,8 @@
+controller: index
+action: index
+view: index
+
+brand: Tylingsoft
+title: Welcome
+title_suffix: " | Tylingsoft"
+navbar_items: [ "/markdown-plus/" ]
