@@ -4,7 +4,7 @@
 ## Build
 
 ```
-npm build
+npm run build
 ```
 
 
