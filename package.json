@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "description": "tylingsoft.com",
   "devDependencies": {
-    "maml": "^0.1.3",
     "markdown-it": "^5.1.0"
   },
   "scripts": {
