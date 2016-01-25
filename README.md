@@ -4,8 +4,7 @@
 ## Build
 
 ```
-cd maml
-build -o ..
+npm build
 ```
 
 
