@@ -25,7 +25,8 @@ flowchart, sequence diagram, gantt diagram, Vim mode and Emacs mode.
 <a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-1.9.0.exe" target="_blank">Download free trial version</a>.
 
 <div class="alert alert-info">
-Users from China 中国用户:
+Users from China<br/>
+中国用户:
 
 - 第一步：支付宝转账 90 元人民币到账号 15889546648 (对应两个帐号，哪个都可以)
 - 第二步：发邮件到 service@tylingsoft.com，注明付款的时间（精确到5分钟以内）
