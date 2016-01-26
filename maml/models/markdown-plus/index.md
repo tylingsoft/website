@@ -13,7 +13,7 @@ flowchart, sequence diagram, gantt diagram, Vim mode and Emacs mode.
 
 ### For OS X:
 
-<a href="https://itunes.apple.com/us/app/markdown-plus/id972585766?mt=8" target="_blank">
+<a href="https://itunes.apple.com/us/app/markdown-plus/id972585766?ls=1&mt=12" target="_blank">
   <img src="/img/macappstore.png"/>
 </a>
 
@@ -110,24 +110,18 @@ Users from China 中国用户:
 - Export to PDF/PNG/HTML
 - Open multiple files in tabs
 - Drag & drop to open file
-- GitHub flavored markdown
-- Live preview with scroll sync
-- Source code highlight
-- Footnote
-- Table of Contents
-- Task list
-- Abbreviation
-- Custom container
-- Definition list
-- Emoji
-- Font Awesome icon
-- Ionicons icon
+- CommonMark
+- GitHub Flavored Markdown
+- Flowchart, sequence chart, gantt chart
+- Icons: emoji, font awesome, ionicons
 - Mathematical formula
-- Flowchart
-- Sequence diagram
-- Gantt diagram
-- Vim mode
-- Emacs mode
+- Source code highlight
+- Footnote & Task list
+- Table of Contents
+- Abbreviation & Definition list
+- Custom container
+- Vim mode & Emacs mode
+- Live preview with scroll sync
 
 
 ## Questions & Support

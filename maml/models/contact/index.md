@@ -2,12 +2,17 @@
 
 ## Customer Support
 
-We’re here to help with any questions or comments. It's cool if you just want to say "hi".
+If you want to:
 
-Please send email to [service@tylingsoft.com](mailto:service@tylingsoft.com).
+- Report a bug / issue
+- Request a new feature
+- Ask a question
+- Say "Hello"
 
-For critical issues or bugs, we will reply your email as soon as possible.
-Normally, you can expect to receive our reply in 1-2 business days.
+Please kindly send an email to [service@tylingsoft.com](mailto:service@tylingsoft.com).
+
+For critical issues, we will try to get back to you as soon as possible.<br/>
+Normally, we will reply your email in 1 or 2 business days.
 
 
 ## How to
