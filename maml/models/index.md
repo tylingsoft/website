@@ -2,24 +2,23 @@
   <ol class="carousel-indicators">
     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#main-carousel" data-slide-to="1"></li>
-    <li data-target="#main-carousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <a href="/markdown-plus/">
-        <img src="/img/mdp/1.png"/>
+        <img src="/img/mdp/0.png"/>
         <div class="carousel-caption">
-          <h3>Markdown Plus</h3>
-          <p>Markdown editor with extra features.</p>
+          <h2>Markdown Plus</h2>
+          <h5>Markdown editor with extra features</h5>
         </div>
       </a>
     </div>
     <div class="item">
       <a href="/markdown-mate/">
-        <img src="/img/mdm/1.png"/>
+        <img src="/img/mdm/0.png"/>
         <div class="carousel-caption">
-          <h3>Markdown Mate</h3>
-          <p>Realtime markdown previewer.</p>
+          <h2>Markdown Mate</h2>
+          <h5>Realtime markdown previewer</h5>
         </div>
       </a>
     </div>

@@ -7,7 +7,13 @@ body {
 }
 
 .carousel-caption {
-  color: purple;
+  color: orange;
+}
+.carousel-indicators li {
+  background-color: #11a2ea;
+}
+.carousel-indicators .active {
+  background-color: #e54848;
 }
 
 /* Sticky footer styles

@@ -1,6 +1,6 @@
-![](http://lorempixel.com/1024/256/business/)
+![business](http://lorempixel.com/1024/256/business/)
 
-# Customer Support
+## Customer Support
 
 We’re here to help with any questions or comments. It's cool if you just want to say "hi".
 
@@ -18,4 +18,4 @@ In order for us to better service you, please do include the following informati
 1. Operating system and version
 1. Steps to reproduce the issues/bugs if there are any
 1. A screenshot is very helpful for us to quickly know what is happening
-1. Any other information which might help us to investigate the issue
+1. Any other information which might help us to troubleshot the issue
