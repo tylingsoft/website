@@ -8,8 +8,8 @@
       <a href="/markdown-plus/">
         <img src="/img/mdp/0.png"/>
         <div class="carousel-caption">
-          <h2>Markdown Plus</h2>
-          <h5>Markdown editor with extra features</h5>
+          <h3>Markdown Plus</h3>
+          <h6>Markdown editor with extra features</h6>
         </div>
       </a>
     </div>
@@ -17,8 +17,8 @@
       <a href="/markdown-mate/">
         <img src="/img/mdm/0.png"/>
         <div class="carousel-caption">
-          <h2>Markdown Mate</h2>
-          <h5>Realtime markdown previewer</h5>
+          <h3>Markdown Mate</h3>
+          <h6>Realtime markdown previewer</h6>
         </div>
       </a>
     </div>
