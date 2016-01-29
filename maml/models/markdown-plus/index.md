@@ -1,6 +1,6 @@
 # Markdown Plus
 
-<img src="/img/mdp/icon.png" width="128" align="left"/>
+<img src="/img/mdp/icon.png" width="128" align="left" style="margin-right: 8px;"/>
 
 Markdown editor with extra features.
 
