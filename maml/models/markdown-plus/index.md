@@ -22,7 +22,7 @@ flowchart, sequence diagram, gantt diagram, Vim mode and Emacs mode.
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mdp-win?wanted=true" target="_blank">Purchase & Download</a>
 
-<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-1.9.0.exe" target="_blank">Download free trial version</a>.
+<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-1.9.4.exe" target="_blank">Download free trial version</a>.
 
 <div class="alert alert-info">
 Users from China<br/>
