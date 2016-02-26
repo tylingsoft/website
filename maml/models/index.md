@@ -3,6 +3,7 @@
     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#main-carousel" data-slide-to="1"></li>
     <li data-target="#main-carousel" data-slide-to="2"></li>
+    <li data-target="#main-carousel" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="item active">
@@ -29,6 +30,15 @@
         <div class="carousel-caption">
           <h4>HTTP Server</h4>
           <h6>Manage and host your websites</h6>
+        </div>
+      </a>
+    </div>
+    <div class="item">
+      <a href="/postgresql-master/">
+        <img src="/img/pgm/0.png"/>
+        <div class="carousel-caption">
+          <h4>PostgreSQL Master</h4>
+          <h6>Manage your databases like a master</h6>
         </div>
       </a>
     </div>
