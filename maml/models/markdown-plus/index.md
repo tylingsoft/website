@@ -4,12 +4,14 @@
 
 Markdown editor with extra features.
 
-Markdown Plus ("M+" or "mdp" for short) is a versatile markdown editor.
-Besides CommonMark, GitHub flavored markdown, it also supports toc,
+Markdown Plus is probably the markdown editor with the MOST features.
+Besides CommonMark, GitHub flavored markdown, it also supports toc, superscript,
 footnote, task list, emoji, Font Awesome, Ionicons, mathematical formula,
-flowchart, sequence diagram, gantt diagram, Vim mode and Emacs mode.
+flowchart, sequence diagram, gantt diagram, Vim mode, Emacs mode and a lot more.
 
-<div style="clear: left;"></div>
+Markdown Plus is super useful if you want to write resumes, documentations, blog entries...etc.
+It is also very handy if you want to do planning by creating flowcharts, sequence diagrams and gantt diagrams.
+
 
 ### For OS X:
 

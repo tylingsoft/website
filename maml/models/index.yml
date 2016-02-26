@@ -5,4 +5,4 @@ view: home
 brand: Tylingsoft
 title: Welcome
 title_suffix: " | Tylingsoft"
-navbar_items: [ "/markdown-plus/", "/markdown-mate/", "/http-server/" ]
+navbar_items: [ "/markdown-plus/", "/markdown-mate/", "/http-server/", "/postgresql-master/" ]

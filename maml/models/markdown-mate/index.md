@@ -2,18 +2,16 @@
 
 <img src="/img/mdm/icon.png" width="128" align="left" style="margin-right: 8px;"/>
 
-Markdown previewer which auto refreshes when you update markdown file.
+Feature-rich markdown previewer.
 
 There are already lots of markdown editors available, inlcuding [Markdown Plus](/markdown-plus/).
 But what if you want to be with your favorite editor:
 Vim, Emacs, TextMate, Sublime Text, Atom, Visual Studio Code...etc.
-Edit markdown with your favorite editor and preview HTML page in real time!
-
-<div style="clear: left;"></div>
+Edit markdown with your favorite editor and preview HTML with Markdown Mate.
 
 Markdown Mate is not going to replace your editor, instead, it wants to be your editor's mate.
 With Markdown Mate, you can continue to use your beloved editor.
-And Markdown Mate takes care of everything about Markdown:
+And Markdown Mate takes care of everything about markdown:
 realtime preview, export to PDF/PNG/HTML, printing...etc.
 
 
