@@ -78,7 +78,6 @@ The app provides modern graphical interface. It includes a syntax highlighting S
 
 ## Features
 
-- Works with PostgreSQL 9.1+
 - Multiple database connections, each in a separate tab
 - Create and manage connection URIs, next time one click to connect
 - Connect to local or remote databases
