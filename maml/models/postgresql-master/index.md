@@ -96,6 +96,11 @@ The app provides modern graphical interface. It includes a syntax highlighting S
 - I have ecountered an error: "SSL is not enabled on the server"
     - You can append `?sslmode=disable` to the connection URI to solve the issue.
     - More information please read [http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521](http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521)
+- Does the app support SSL tunnel?
+    - Nope, it doesn't support SSL tunnel.
+    - There is a workaround:
+        - Run `ssh -Ng -L 5433:localhost:5432 ssh-username@ssh-server` in terminal.
+        - Use the app to connect to `postgresql://pg-username:pg-password@localhost:5433/pg-dbname`.
 
 
 ## Questions & Support

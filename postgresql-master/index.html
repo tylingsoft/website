@@ -119,6 +119,17 @@
 <li>More information please read <a href="http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521">http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521</a></li>
 </ul>
 </li>
+<li>Does the app support SSL tunnel?
+<ul>
+<li>Nope, it doesn't support SSL tunnel.</li>
+<li>There is a workaround:
+<ul>
+<li>Run <code>ssh -Ng -L 5433:localhost:5432 ssh-username@ssh-server</code> in terminal.</li>
+<li>Use the app to connect to <code>postgresql://pg-username:pg-password@localhost:5433/pg-dbname</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <h2>Questions &amp; Support</h2>
 <p>Please contact <a href="/contact/">Customer Support</a>.</p>
