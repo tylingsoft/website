@@ -91,6 +91,13 @@ The app provides modern graphical interface. It includes a syntax highlighting S
 - Support multiple schemas
 
 
+## FAQ
+
+- I have ecountered an error: "SSL is not enabled on the server"
+    - You can append "?sslmode=disable" to the connection URI to solve the issue.
+    - More information please read [http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521](http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521)
+
+
 ## Questions & Support
 
 Please contact [Customer Support](/contact/).
