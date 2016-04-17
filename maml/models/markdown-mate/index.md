@@ -101,6 +101,13 @@ realtime preview, export to PDF/PNG/HTML, printing...etc.
 - It knows where you changed, and scrolls to the right place smartly
 
 
+## FAQ
+
+- How to display local images?
+    - There is a button named "Authorize" on the toolbar. Please authorize the app to access the folder which contains your images.
+    - Both relative and absolute paths are supported: `![image](./file.png)`, `![image](/Users/xxx/Desktop/file.png)`.
+
+
 ## Questions & Support
 
 Please contact [Customer Support](/contact/).
