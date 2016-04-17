@@ -106,6 +106,16 @@ It is also very handy if you want to do planning by creating flowcharts, sequenc
 - Live preview with scroll sync
 
 
+## FAQ
+
+- Is there a trial edition?
+    - There is an [online demo](http://mdp.tylingsoft.com/).
+    - There is a trial edition for Windows which could be downloaded above.
+- How to display local images?
+    - There is a button named "Authorize" on the toolbar. Please authorize the app to access the folder which contains your images.
+    - Both relative and absolute paths are supported: `![image](./file.png)`, `![image](/Users/xxx/Desktop/file.png)`.
+
+
 ## Questions & Support
 
 Please contact [Customer Support](/contact/).
