@@ -4,7 +4,7 @@
 
 Feature-rich markdown previewer.
 
-There are already lots of markdown editors available, inlcuding [Markdown Plus](/markdown-plus/).
+There are already lots of markdown editors available, including [Markdown Plus](/markdown-plus/).
 But what if you want to be with your favorite editor:
 Vim, Emacs, TextMate, Sublime Text, Atom, Visual Studio Code...etc.
 Edit markdown with your favorite editor and preview HTML with Markdown Mate.
