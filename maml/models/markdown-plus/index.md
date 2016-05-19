@@ -115,8 +115,8 @@ It is also very handy if you want to do planning by creating flowcharts, sequenc
     - There is a button named "Authorize" on the toolbar. Please authorize the app to access the folder which contains your images.
     - Both relative and absolute paths are supported: `![image](./file.png)`, `![image](/Users/xxx/Desktop/file.png)`.
 - How to launch the app from command line?
-    - Add `alias mdp="open -a /Applications/Markdown\ Plus.app"` to `~/.bash_profile`
-    - Then you can launch the app by `mdp README.md` or simply `mdp`
+    - Add `alias mdp="open -a /Applications/Markdown\ Plus.app"` to `~/.bash_profile`.
+    - Then you can launch the app by `mdp README.md` or simply `mdp`.
 
 
 ## Questions & Support
