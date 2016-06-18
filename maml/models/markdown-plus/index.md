@@ -24,7 +24,7 @@ It is also very handy if you want to do planning by creating flowcharts, sequenc
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mdp-win?wanted=true" target="_blank">Purchase & Download</a>
 
-<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-1.9.4.exe" target="_blank">Download free trial version</a>.
+<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-2.0.0.exe" target="_blank">Download free trial version</a>.
 
 
 ## Screenshots
