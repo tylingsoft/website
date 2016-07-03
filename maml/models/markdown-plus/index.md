@@ -106,6 +106,13 @@ It is also very handy if you want to do planning by creating flowcharts, sequenc
 - Live preview with scroll sync
 
 
+## Plugins
+
+Please check: https://github.com/tylingsoft/markdown-plus-plugins
+
+How to install plugins? Just open the Preferences panel and copy paste the CDN url of a plugin to "Custom JS files" text area.
+
+
 ## FAQ
 
 - Is there a trial edition?
