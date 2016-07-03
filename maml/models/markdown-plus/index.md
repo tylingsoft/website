@@ -24,7 +24,7 @@ It is also very handy if you want to do planning by creating flowcharts, sequenc
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mdp-win?wanted=true" target="_blank">Purchase & Download</a>
 
-<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-1.9.4.exe" target="_blank">Download free trial version</a>.
+<a href="https://cdn.rawgit.com/tylingsoft/dist/master/mdp-2.0.0.exe" target="_blank">Download free trial version</a>.
 
 
 ## Screenshots
@@ -121,6 +121,9 @@ How to install plugins? Just open the Preferences panel and copy paste the CDN u
 - How to display local images?
     - There is a button named "Authorize" on the toolbar. Please authorize the app to access the folder which contains your images.
     - Both relative and absolute paths are supported: `![image](./file.png)`, `![image](/Users/xxx/Desktop/file.png)`.
+- How to launch the app from command line?
+    - Add `alias mdp="open -a /Applications/Markdown\ Plus.app"` to `~/.bash_profile`.
+    - Then you can launch the app by `mdp README.md` or simply `mdp`.
 
 
 ## Questions & Support

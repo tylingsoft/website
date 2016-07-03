@@ -4,7 +4,7 @@
 
 Feature-rich markdown previewer.
 
-There are already lots of markdown editors available, inlcuding [Markdown Plus](/markdown-plus/).
+There are already lots of markdown editors available, including [Markdown Plus](/markdown-plus/).
 But what if you want to be with your favorite editor:
 Vim, Emacs, TextMate, Sublime Text, Atom, Visual Studio Code...etc.
 Edit markdown with your favorite editor and preview HTML with Markdown Mate.
@@ -115,6 +115,9 @@ Please note that, most of the plugins are for [Markdown Plus](/markdown-plus/) o
 - How to display local images?
     - There is a button named "Authorize" on the toolbar. Please authorize the app to access the folder which contains your images.
     - Both relative and absolute paths are supported: `![image](./file.png)`, `![image](/Users/xxx/Desktop/file.png)`.
+- How to launch the app from command line?
+    - Add `alias mdm="open -a /Applications/Markdown\ Mate.app"` to `~/.bash_profile`.
+    - Then you can launch the app by `mdm README.md` or simply `mdm`.
 
 
 ## Questions & Support
