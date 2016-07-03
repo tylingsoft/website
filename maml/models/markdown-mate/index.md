@@ -103,7 +103,7 @@ realtime preview, export to PDF/PNG/HTML, printing...etc.
 
 ## Plugins
 
-Please check: https://github.com/tylingsoft/markdown-plus-plugins
+Please check: [Markdown Plus plugins](https://github.com/tylingsoft/markdown-plus-plugins).
 
 How to install plugins? Just open the Preferences panel and copy paste the CDN url of a plugin to "Custom JS files" text area.
 
