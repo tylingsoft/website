@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "tylingsoft.com",
   "devDependencies": {
-    "markdown-it": "^5.1.0"
+    "maml": "^0.1.4",
+    "markdown-it": "^8.0.0"
   },
   "scripts": {
     "build": "cd maml && maml build -o .."
