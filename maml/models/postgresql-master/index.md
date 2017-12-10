@@ -9,11 +9,9 @@ Manage your PostgreSQL databases with ease like a master. It is extremely useful
 The app provides modern graphical interface. It includes a syntax highlighting SQL editor. You can also download tables and query results as CSV/JSON/XML.
 
 
-## Download
+## for macOS
 
-<a href="https://itunes.apple.com/us/app/postgresql-master/id1000346238?ls=1&mt=12" target="_blank">
-  <img src="/img/macappstore.png"/>
-</a>
+<a href="https://transactions.sendowl.com/products/77696805/381564E2/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 
 ## Screenshots
