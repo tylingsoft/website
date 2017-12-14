@@ -82,6 +82,7 @@ The app provides modern graphical interface. It includes a syntax highlighting S
 ## Features
 
 - Multiple database connections, each in a separate tab
+- Support connection via SSH tunnel
 - Create and manage connection URIs, next time one click to connect
 - Connect to local or remote databases
 - Browse tables and table rows
@@ -100,8 +101,8 @@ The app provides modern graphical interface. It includes a syntax highlighting S
     - You can append `?sslmode=disable` to the connection URI to solve the issue.
     - More information please read [http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521](http://www.postgresql.org/docs/9.5/static/libpq-connect.html#AEN42521)
 - Does the app support SSL tunnel?
-    - Nope, it doesn't support SSL tunnel.
-    - There is a workaround:
+    - Yes, it does. But the version sold on Mac App Store doesn't
+    - A workaround for users who are running the Mac App Store version:
         - Run `ssh -Ng -L 5433:localhost:5432 ssh-username@ssh-server` in terminal.
         - Use the app to connect to `postgresql://pg-username:pg-password@localhost:5433/pg-dbname`.
 

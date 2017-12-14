@@ -100,6 +100,7 @@
 <h2>Features</h2>
 <ul>
 <li>Multiple database connections, each in a separate tab</li>
+<li>Support connection via SSH tunnel</li>
 <li>Create and manage connection URIs, next time one click to connect</li>
 <li>Connect to local or remote databases</li>
 <li>Browse tables and table rows</li>
@@ -121,8 +122,8 @@
 </li>
 <li>Does the app support SSL tunnel?
 <ul>
-<li>Nope, it doesn't support SSL tunnel.</li>
-<li>There is a workaround:
+<li>Yes, it does. But the version sold on Mac App Store doesn't</li>
+<li>A workaround for users who are running the Mac App Store version:
 <ul>
 <li>Run <code>ssh -Ng -L 5433:localhost:5432 ssh-username@ssh-server</code> in terminal.</li>
 <li>Use the app to connect to <code>postgresql://pg-username:pg-password@localhost:5433/pg-dbname</code>.</li>
