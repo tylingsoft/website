@@ -5,10 +5,12 @@
   "description": "tylingsoft.com",
   "devDependencies": {
     "maml": "^0.1.4",
-    "markdown-it": "^8.0.0",
-    "standard": "^10.0.3"
+    "markdown-it": "^8.4.0",
+    "standard": "^10.0.3",
+    "yarn-upgrade-all": "^0.2.0"
   },
   "scripts": {
+    "upgrade": "yarn-upgrade-all",
     "build": "cd maml && maml build -o .."
   },
   "keywords": [
