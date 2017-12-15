@@ -9,14 +9,19 @@ Manage your PostgreSQL databases with ease like a master. It is extremely useful
 The app provides modern graphical interface. It includes a syntax highlighting SQL editor. You can also download tables and query results as CSV/JSON/XML.
 
 
-## for macOS
+### for macOS
 
 <a href="https://transactions.sendowl.com/products/77696805/381564E2/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 
-## for Windows
+### for Windows
 
 <a href="https://transactions.sendowl.com/products/77696811/B6BFA220/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+
+
+### for Linux
+
+<a href="https://transactions.sendowl.com/products/77696812/2F907201/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 
 ## Screenshots
