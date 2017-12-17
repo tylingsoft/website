@@ -1,12 +1,10 @@
-var mdi = require('markdown-it')({ html: true, xhtmlOut: true });
+var mdi = require('markdown-it')({ html: true, xhtmlOut: true })
 
-
-function index(page) {
-  page.html = mdi.render(page.markdown);
-  page.generate();
+function index (page) {
+  page.html = mdi.render(page.markdown)
+  page.generate()
 }
 
-
 module.exports = {
-  index: index,
-};
+  index: index
+}
