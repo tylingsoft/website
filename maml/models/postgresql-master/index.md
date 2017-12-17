@@ -1,6 +1,6 @@
 # PostgreSQL Master
 
-<img src="/img/pgm/icon.png" width="128" align="left" style="margin-right: 8px;"/>
+<img src="/img/postgresql-master/icon.png" width="128" align="left" style="margin-right: 8px;"/>
 
 PostgreSQL administration tool.
 
@@ -37,37 +37,37 @@ The app provides modern graphical interface. It includes a syntax highlighting S
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/img/pgm/0.png"/>
+      <img src="/img/postgresql-master/0.png"/>
       <div class="carousel-caption">
         <h3>Run SQL query</h3>
       </div>
     </div>
     <div class="item">
-      <img src="/img/pgm/1.png"/>
+      <img src="/img/postgresql-master/1.png"/>
       <div class="carousel-caption">
         <h3>Manage connection URIs</h3>
       </div>
     </div>
     <div class="item">
-      <img src="/img/pgm/2.png"/>
+      <img src="/img/postgresql-master/2.png"/>
       <div class="carousel-caption">
         <h3>Rows and filter</h3>
       </div>
     </div>
     <div class="item">
-      <img src="/img/pgm/3.png"/>
+      <img src="/img/postgresql-master/3.png"/>
       <div class="carousel-caption">
         <h3>Table structure</h3>
       </div>
     </div>
     <div class="item">
-      <img src="/img/pgm/4.png"/>
+      <img src="/img/postgresql-master/4.png"/>
       <div class="carousel-caption">
         <h3>Query history</h3>
       </div>
     </div>
     <div class="item">
-      <img src="/img/pgm/5.png"/>
+      <img src="/img/postgresql-master/5.png"/>
       <div class="carousel-caption">
         <h3>Explain query</h3>
       </div>
