@@ -165,5 +165,11 @@ How to install plugins? Just open the Preferences panel and copy paste the CDN u
   <script src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="/index.js"></script>
+  <script>
+    if (window.location.host.indexOf('tylingsoft.com') !== -1) {
+      window.location.host = 'tylingsoft.com'
+      window.location.protocol = 'https'
+    }
+  </script>
 </body>
 </html>
