@@ -10,7 +10,7 @@
     "yarn-upgrade-all": "^0.2.0"
   },
   "scripts": {
-    "upgrade": "yarn-upgrade-all",
+    "upgrade": "yarn-upgrade-all && yarn remove maml && git stash && yarn install && git stash clear",
     "build": "cd maml && maml build -o .."
   },
   "keywords": [
