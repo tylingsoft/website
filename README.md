@@ -18,4 +18,3 @@ Proprietary software. All rights reserved.
 - videos for how to use apps
 - create a page to list all the apps
 - Google Analytics
-- https
