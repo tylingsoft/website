@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "tylingsoft.com",
   "devDependencies": {
-    "maml": "^0.1.4",
+    "maml": "./../maml",
     "markdown-it": "^8.4.0",
     "standard": "^10.0.3",
     "yarn-upgrade-all": "^0.2.0"
