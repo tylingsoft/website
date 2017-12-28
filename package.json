@@ -5,12 +5,12 @@
   "description": "tylingsoft.com",
   "scripts": {
     "upgrade": "yarn-upgrade-all",
-    "build": "cd maml && maml build -o .."
+    "build": "maml build -i maml -o ."
   },
   "author": "Tyler Long",
   "license": "All rights reserved",
   "devDependencies": {
-    "maml": "./../maml",
+    "maml": "^0.4.3",
     "markdown-it": "^8.4.0",
     "standard": "^10.0.3",
     "yarn-upgrade-all": "^0.2.0"

@@ -1,8 +1,8 @@
-var mdi = require('markdown-it')({ html: true, xhtmlOut: true })
+const mdi = require('markdown-it')({ html: true, xhtmlOut: true })
 
 function index (page) {
   page.html = mdi.render(page.markdown)
-  page.generate()
+  page.build()
 }
 
 module.exports = {

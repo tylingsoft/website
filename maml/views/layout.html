@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }}{{ title_suffix }}</title>
+  <title>{{ page.title }}{{ page.title_suffix }}</title>
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/flat-ui/2.2.2/css/flat-ui.min.css">
@@ -20,15 +20,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/">{{ brand }}</a>
+        <a class="navbar-brand" href="/">{{ page.brand }}</a>
       </div>
       <div class="collapse navbar-collapse" id="navbar-items">
         <ul class="nav navbar-nav">
-          {% for navbar_item in navbar_items -%}
-            {% if pathname.startsWith(navbar_item) -%}
-              <li class="active"><a href="{{ navbar_item }}">{{ configs[navbar_item].name }}</a></li>
+          {% for navbar_item in page.navbar_items -%}
+            {% if page.pathname.startsWith(navbar_item) -%}
+              <li class="active"><a href="{{ navbar_item }}">{{ pages[navbar_item].name }}</a></li>
             {%- else -%}
-              <li><a href="{{ navbar_item }}">{{ configs[navbar_item].name }}</a></li>
+              <li><a href="{{ navbar_item }}">{{ pages[navbar_item].name }}</a></li>
             {%- endif %}
           {%- endfor %}
         </ul>
