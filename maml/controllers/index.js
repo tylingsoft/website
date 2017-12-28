@@ -1,7 +1,7 @@
-const mdi = require('markdown-it')({ html: true, xhtmlOut: true })
+const mdc = require('markdown-core')
 
 function index (page) {
-  page.html = mdi.render(page.markdown)
+  page.html = mdc.render(page.markdown)
   page.build()
 }
 
