@@ -28,7 +28,7 @@
             {% if page.pathname.startsWith(navbar_item) -%}
               <li class="active"><a href="{{ navbar_item }}">{{ pages[navbar_item].name }}</a></li>
             {%- else -%}
-              <li><a href="{{ navbar_item }}">{{ pages[navbar_item].name }}</a></li>
+              <li><a href="{{ navbar_item }}">{% if navbar_item === '/free-apps/' %}🔥 {% endif %}{{ pages[navbar_item].name }}{% if navbar_item === '/free-apps/' %} 🔥{% endif %}</a></li>
             {%- endif %}
           {%- endfor %}
         </ul>
