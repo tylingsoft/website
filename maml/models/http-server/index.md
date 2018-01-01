@@ -1,6 +1,6 @@
 # HTTP Server
 
-<img src="/img/https/icon.png" width="128" align="left" style="margin-right: 8px;"/>
+<img src="/img/http-server/icon.png" width="128" align="left" style="margin-right: 8px;"/>
 
 HTTP server to host static websites.
 
@@ -18,7 +18,7 @@ I know there are lots of command line tools which behave like an HTTP server. Bu
 
 ## Screenshot
 
-<img src="/img/https/0.png"/>
+<img src="/img/http-server/0.png"/>
 
 
 ## Features
