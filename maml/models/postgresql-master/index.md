@@ -9,20 +9,19 @@ Manage your PostgreSQL databases with ease like a master. It is extremely useful
 The app provides modern graphical interface. It includes a syntax highlighting SQL editor. You can also download tables and query results as CSV/JSON/XML.
 
 
-### for macOS
+## Get it
 
-<a href="https://transactions.sendowl.com/products/77696805/381564E2/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a>
+==Best Value:== Get 3 for the price of 2! <span style='color: green; font-size: 150%'>$29.99</span>. You save 33.3%.
 
+<a href='https://transactions.sendowl.com/packages/61386/53F80C96/purchase'><button type="button" class="btn btn-primary">Get them for macOS, Windows & Linux</button></a>
 
-### for Windows
+We charge it <span style='color: green; font-size: 150%'>$14.99</span> for each platform:
 
-<a href="https://transactions.sendowl.com/products/77696811/B6BFA220/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a>
+<a href="https://transactions.sendowl.com/products/77696805/381564E2/purchase" rel="nofollow"><button type="button" class="btn btn-info">Get it for macOS</button></a>
 
+<a href="https://transactions.sendowl.com/products/77696811/B6BFA220/purchase" rel="nofollow"><button type="button" class="btn btn-info">Get it for Windows</button></a>
 
-### for Linux
-
-<a href="https://transactions.sendowl.com/products/77696812/2F907201/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a>
-
+<a href="https://transactions.sendowl.com/products/77696812/2F907201/purchase" rel="nofollow"><button type="button" class="btn btn-info">Get it for Linux</button></a>
 
 <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
@@ -89,6 +88,7 @@ The app provides modern graphical interface. It includes a syntax highlighting S
 
 ## Features
 
+- Cross platform: macOS, Windows and Linux
 - Multiple database connections, each in a separate tab
 - Support connection via SSH tunnel
 - Create and manage connection URIs, next time one click to connect
