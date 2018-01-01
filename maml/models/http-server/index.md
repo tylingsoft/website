@@ -4,16 +4,24 @@
 
 HTTP server to host static websites.
 
-It supports up to 6 websites, each running on an unique port. It's a lifesaver for frontend developers. Testing your HTML pages has never been so easy! You can use this app to test your website locally before you deploy it to a production server.
+It supports infinite websites, each running on an unique port. It's a lifesaver for frontend developers. Testing your HTML pages has never been so easy! You can use this app to test your website locally before you deploy it to a production server.
 
 I know there are lots of command line tools which behave like an HTTP server. But it is annoying to open and keep lots of terminal windows. And several mouse clicks are MUCH faster than dozens of keyboard typings. What's more, this app remembers where your websites are so you can serve them by simply one click.
 
 
 ## Download
 
-<a href="https://itunes.apple.com/us/app/http-server/id998827305?ls=1&mt=12" target="_blank">
-  <img src="/img/macappstore.png"/>
-</a>
+We used to offer this app for free. However, due to massive malicious traffic,
+we decided to sell it at <span style='color: green; font-size: 150%'>$0.01</span>.
+The amount of money is too small to cover the transaction fee so we don't offer refund.
+
+<a href="https://transactions.sendowl.com/products/77705415/0E39AAF0/purchase" rel="nofollow"><button type="button" class="btn btn-primary">Get it for macOS</button></a>
+
+<a href="https://transactions.sendowl.com/products/77705416/19409945/purchase" rel="nofollow"><button type="button" class="btn btn-primary">Get it for Windows</button></a>
+
+<a href="https://transactions.sendowl.com/products/77705417/5CA8B35E/purchase" rel="nofollow"><button type="button" class="btn btn-primary">Get it for Linux</button></a>
+
+<script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 
 ## Screenshot
@@ -25,9 +33,10 @@ I know there are lots of command line tools which behave like an HTTP server. Bu
 
 - Simple and intuitive
 - It remembers where your websites are
-- Support up to 6 websites
+- Support infinite websites
 - Very fast
 - Small footprint
+- Cross platform: macOS, Windows and Linux
 
 
 ## Questions & Support
