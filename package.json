@@ -11,7 +11,7 @@
   "author": "Tyler Long",
   "license": "All rights reserved",
   "devDependencies": {
-    "maml": "^0.5.0",
+    "maml": "^0.5.1",
     "markdown-core": "^1.2.1",
     "standard": "^10.0.3",
     "yarn-upgrade-all": "^0.2.1"

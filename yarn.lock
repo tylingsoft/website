@@ -1298,9 +1298,9 @@ lodash@^4.0.0, lodash@^4.11.1, lodash@^4.17.4, lodash@^4.3.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
-maml@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/maml/-/maml-0.5.0.tgz#af4576284299408af56bcd6530af0fc48e9ad26a"
+maml@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/maml/-/maml-0.5.1.tgz#0f9c01de18289d4e25ebebcc898c796a7c1565be"
   dependencies:
     chalk "^2.3.0"
     commander "^2.12.2"
