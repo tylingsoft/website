@@ -3,6 +3,6 @@ action: index
 view: home
 
 brand: Tylingsoft
-title: Welcome
+title: Apps for productivity
 title_suffix: " | Tylingsoft"
-navbar_items: [ "/markdown-plus/", "/markdown-mate/", "/http-server/", "/postgresql-master/" ]
+navbar_items: [ "/markdown-plus/", "/markdown-mate/", "/postgresql-master/", "/free-apps/" ]
