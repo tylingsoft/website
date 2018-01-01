@@ -7,6 +7,12 @@
 yarn build
 ```
 
+Turn on watch mode:
+
+```
+yarn build:watch
+```
+
 
 ## License
 
